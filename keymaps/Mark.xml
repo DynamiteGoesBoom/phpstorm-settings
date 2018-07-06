@@ -1,4 +1,5 @@
 <keymap version="1" name="Mark" parent="Mac OS X 10.5+">
+  <action id="BaseOnThisFunction" />
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -13,14 +14,24 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
-  <action id="ParameterInfo" />
-  <action id="SelectNextOccurrence">
+  <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="ParameterInfo" />
+  <action id="SelectNextOccurrence" />
   <action id="ShowNavBar" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Vcs.QuickListPopupAction" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
