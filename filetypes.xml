@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="sgr" type="HTML" />
+      <mapping ext="sss" type="SCSS" />
     </extensionMap>
   </component>
 </application>
