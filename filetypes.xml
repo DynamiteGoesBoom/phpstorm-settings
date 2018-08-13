@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="sgr" type="HTML" />
+      <mapping pattern="photoism_db" type="PLAIN_TEXT" />
       <mapping pattern=".vault_pass" type="PLAIN_TEXT" />
       <mapping ext="sss" type="SCSS" />
     </extensionMap>
