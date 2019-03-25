@@ -16,5 +16,6 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
