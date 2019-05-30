@@ -8,6 +8,7 @@
       <mapping pattern="photoism_db" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping pattern="_landing" type="SCSS" />
       <mapping ext="sss" type="SCSS" />
       <mapping ext="html" type="Twig" />
