@@ -7,6 +7,7 @@
       <mapping pattern=".vault_pass" type="PLAIN_TEXT" />
       <mapping pattern="photoism_db" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="nys-setup" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping pattern="_landing" type="SCSS" />
