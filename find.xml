@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,10 +14,10 @@
     <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.sass</mask>
-    <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
