@@ -12,10 +12,9 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="EditorDuplicate" />
-  <action id="EditorMoveToPageBottom">
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
-  <action id="EditorMoveToPageTop">
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="FileChooser.GotoDesktop" />
@@ -26,6 +25,15 @@
   </action>
   <action id="ParameterInfo" />
   <action id="QuickChangeScheme" />
+  <action id="ScrollPane-scrollDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
